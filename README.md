@@ -29,3 +29,5 @@ The score will be returned to zero and a high score will be retained until the w
 
 ![Screenshot (288)](https://user-images.githubusercontent.com/92047366/173625099-201d2db7-aba4-4fa9-98e8-71a4dd8e3d5b.png)
 
+![Screenshot (289)](https://user-images.githubusercontent.com/92047366/173625172-33be204d-df58-42d0-a14a-177456c5215e.png)
+
