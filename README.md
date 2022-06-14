@@ -31,3 +31,4 @@ The score will be returned to zero and a high score will be retained until the w
 
 ![Screenshot (289)](https://user-images.githubusercontent.com/92047366/173625172-33be204d-df58-42d0-a14a-177456c5215e.png)
 
+<p>Snamke touches to the wall so game is over and start new game</p>
