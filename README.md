@@ -12,7 +12,8 @@ Step 2: Now, we will be creating the display of the game, i.e, the window screen
 Step 3: Now, we will be validating the key for the snake’s movements. By clicking the keywords normally <br>used for gaming ‘w’, ‘a’, ‘s’ and ‘d’, we can operate the snake’s movements around the screen.
 Step 4: Now, lastly, we will create the gameplay where the following will be happening:<br>
 </pre>
-
+<hr>
+<p>
 The snake will grow its body when the snake eats the fruits.
 Giving color to the snake’s tail.
 After the fruit is eaten, the score will be counted.
@@ -20,4 +21,4 @@ Checking for the snake’s head collisions with the body or the wall of the wind
 Restarting the game automatically from the start after the collision.
 The new shape and color of the fruit will be introduced every time the window is restarted.
 The score will be returned to zero and a high score will be retained until the window is not closed.<br>
-</pre>
+<p>
