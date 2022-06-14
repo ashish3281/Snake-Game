@@ -22,3 +22,6 @@ Restarting the game automatically from the start after the collision.
 The new shape and color of the fruit will be introduced every time the window is restarted.
 The score will be returned to zero and a high score will be retained until the window is not closed.<br>
 <p>
+<hr>
+<h2>OUTPUT</h2>
+
