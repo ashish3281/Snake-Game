@@ -25,3 +25,4 @@ The score will be returned to zero and a high score will be retained until the w
 <hr>
 <h2>OUTPUT</h2>
 
+![Screenshot (283)](https://user-images.githubusercontent.com/92047366/173624988-a3f7764b-0ad7-4462-a4b3-a97ddd4e526b.png)
